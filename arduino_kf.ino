@@ -1,4 +1,7 @@
-`#include "Adafruit_LSM9DS1.h"
+/*This code is provided during the class projects for the arduino in Kalman filter project UGA -ELEE4230*/
+
+
+#include "Adafruit_LSM9DS1.h"
 #include "Adafruit_BMP280.h"
 
 #include <Wire.h>
